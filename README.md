@@ -4,7 +4,13 @@ C++ BypassUAC
 
 My First Object About C
 
-因为本身代码薄弱所以东拼西凑 能用就行
+I'm NOOb
 
-需要的自行编译即可
+
+
 ^^ 
+
+
+##Usage
+
+Release/BypassUAC.exe
